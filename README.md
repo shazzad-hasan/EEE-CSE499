@@ -1,2 +1,2 @@
-# EEE-CSE499
-kAGGLE COMPETITON
+# EEE-CSE499: Pulmonary Fibrosis Progression
+
