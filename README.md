@@ -17,11 +17,11 @@ To reproduce our results for Fibrosis-Net, first clone this repository, and down
 
 #### Dependencies
 - numpy==1.20.0
-opencv-python==4.5.1.48
-pandas==1.2.1
-Pillow==8.1.0
-pydicom==2.1.2
-scikit-learn==0.24.1
-scipy==1.6.0
-tensorflow-gpu==1.15.0
-tqdm==4.56.0
+- opencv-python==4.5.1.48
+- pandas==1.2.1
+- Pillow==8.1.0
+- pydicom==2.1.2
+- scikit-learn==0.24.1
+- scipy==1.6.0
+- tensorflow-gpu==1.15.0
+- tqdm==4.56.0
