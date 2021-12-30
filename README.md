@@ -15,7 +15,7 @@ Pulmonary fibrosis is a chronic interstitial lung disease that occurs due to gra
 
 
 ### Installation
-**Download and Install** the latest version of `miniconda` that matches your system.
+**Download and Install** the latest version of `miniconda` by selecting the latest Python version for your operating system.
 
 |      | Linux | Mac  | Windows |
 | ---- | ----- | ---- | ------- |
@@ -27,6 +27,8 @@ Pulmonary fibrosis is a chronic interstitial lung disease that occurs due to gra
 [mac64]: https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 [lin64]: https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
 [lin32]: https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86.sh
+
+Create and activate a new `conda` environment.
 
 For Windows users, these following commands need to be executed from the **Anaconda prompt** as opposed to a Windows terminal window. For Mac, a normal terminal window will work. 
 
