@@ -40,13 +40,11 @@ conda install git
 
 **Now, we're ready to create our local environment!**
 
-- First clone this repository
+First clone this repository
 ```
 git clone https://github.com/shazzad-hasan/EEE-CSE499.git
 ```
-- download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression).
-
-- Install required dependencies (which are specified in the requirements text file) using 
+and download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression). Install required dependencies (which are specified in the requirements text file) using 
 ```
 pip install -r requirements.txt
 ```
