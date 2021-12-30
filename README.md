@@ -15,6 +15,24 @@ Pulmonary fibrosis is a chronic interstitial lung disease that occurs due to gra
 
 To reproduce our results for Fibrosis-Net, first clone this repository, and download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression).
 
+### Installation
+**Download** the latest version of `miniconda` that matches your system.
+
+|      | Linux | Mac  | Windows |
+| ---- | ----- | ---- | ------- |
+| 64-bit | [64-bit (bash installer)][lin64] | [64-bit (bash installer)][mac64] | [64-bit (exe installer)][win64]
+| 32-bit | [32-bit (bash installer)][lin32] |  | [32-bit (exe installer)][win32]
+
+For Windows users, these following commands need to be executed from the **Anaconda prompt** as opposed to a Windows terminal window. For Mac, a normal terminal window will work. 
+
+#### Git and version control
+These instructions also assume you have `git` installed for working with Github from a terminal window, but if you do not, you can download that first with the command:
+```
+conda install git
+```
+
+**Now, we're ready to create our local environment!**
+
 #### Dependencies
 - numpy==1.20.0
 - opencv-python==4.5.1.48
@@ -25,3 +43,11 @@ To reproduce our results for Fibrosis-Net, first clone this repository, and down
 - scipy==1.6.0
 - tensorflow-gpu==1.15.0
 - tqdm==4.56.0
+
+Install required dependencies (which are specified in the requirements text file) using 
+```
+pip install -r requirements.txt
+```
+That's it! Now most of the `deep-learning` libraries are available to you. If you need additional requirments to install, please install in your local machine. 
+Now, assuming your environment is still activated, you can navigate to the working directory and start looking at the notebooks.
+
