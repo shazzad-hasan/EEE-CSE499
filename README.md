@@ -23,6 +23,12 @@ To reproduce our results for Fibrosis-Net, first clone this repository, and down
 | 64-bit | [64-bit (bash installer)][lin64] | [64-bit (bash installer)][mac64] | [64-bit (exe installer)][win64]
 | 32-bit | [32-bit (bash installer)][lin32] |  | [32-bit (exe installer)][win32]
 
+[win64]: https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86_64.exe
+[win32]: https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86.exe
+[mac64]: https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+[lin64]: https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+[lin32]: https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86.sh
+
 For Windows users, these following commands need to be executed from the **Anaconda prompt** as opposed to a Windows terminal window. For Mac, a normal terminal window will work. 
 
 #### Git and version control
@@ -48,6 +54,6 @@ Install required dependencies (which are specified in the requirements text file
 ```
 pip install -r requirements.txt
 ```
-That's it! Now most of the `deep-learning` libraries are available to you. If you need additional requirments to install, please install in your local machine. 
+That's it! Now most of the libraries are available to you. If you need additional requirments to install, please install in your local machine. 
 Now, assuming your environment is still activated, you can navigate to the working directory and start looking at the notebooks.
 
