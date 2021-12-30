@@ -10,3 +10,7 @@ Pulmonary fibrosis is a chronic interstitial lung disease that occurs due to gra
 <p align="center">
   <img width="400" height="400" src="https://github.com/shazzad-hasan/EEE-CSE499/blob/master/explainability.png" />
 </p>
+
+### How to Reproduce Our Results
+
+To reproduce our results for Fibrosis-Net, first clone this repository, and download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression)
