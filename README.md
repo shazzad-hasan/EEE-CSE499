@@ -16,7 +16,7 @@ Pulmonary fibrosis is a chronic interstitial lung disease that occurs due to gra
 To reproduce our results for Fibrosis-Net, first clone this repository, and download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression).
 
 #### Dependencies
-. numpy==1.20.0
+- numpy==1.20.0
 opencv-python==4.5.1.48
 pandas==1.2.1
 Pillow==8.1.0
