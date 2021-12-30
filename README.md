@@ -55,5 +55,5 @@ Install required dependencies (which are specified in the requirements text file
 pip install -r requirements.txt
 ```
 That's it! Now most of the libraries are available to you. If you need additional requirments to install, please install in your local machine. 
-Now, assuming your environment is still activated, you can navigate to the working directory and start looking at the notebooks.
+Now, assuming your environment is still activated, you can navigate to the working directory and start working with the notebooks.
 
