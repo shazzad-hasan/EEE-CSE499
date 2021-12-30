@@ -57,7 +57,12 @@ pip install -r requirements.txt
 ```
 That's it! Now most of the libraries are available to you. If you need additional requirments to install, please install in your local machine. 
 
-To reproduce our results, first clone this repository, and download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression).
+To reproduce our results, first clone this repository
+```
+git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+cd deep-learning-v2-pytorch
+```
+and download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression).
 
 Now, assuming your environment is still activated, you can navigate to the working directory and start working with the notebooks.
 
