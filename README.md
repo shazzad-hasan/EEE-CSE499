@@ -59,8 +59,7 @@ That's it! Now most of the libraries are available to you. If you need additiona
 
 To reproduce our results, first clone this repository
 ```
-git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-cd deep-learning-v2-pytorch
+git clone https://github.com/shazzad-hasan/EEE-CSE499.git
 ```
 and download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression).
 
