@@ -40,6 +40,16 @@ conda install git
 
 **Now, we're ready to create our local environment!**
 
+- First clone this repository
+```
+git clone https://github.com/shazzad-hasan/EEE-CSE499.git
+```
+- download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression).
+
+Install required dependencies (which are specified in the requirements text file) using 
+```
+pip install -r requirements.txt
+```
 #### Dependencies
 - numpy==1.20.0
 - opencv-python==4.5.1.48
@@ -51,17 +61,7 @@ conda install git
 - tensorflow-gpu==1.15.0
 - tqdm==4.56.0
 
-Install required dependencies (which are specified in the requirements text file) using 
-```
-pip install -r requirements.txt
-```
 That's it! Now most of the libraries are available to you. If you need additional requirments to install, please install in your local machine. 
-
-To reproduce our results, first clone this repository
-```
-git clone https://github.com/shazzad-hasan/EEE-CSE499.git
-```
-and download the dataset [here](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression).
 
 Now, assuming your environment is still activated, you can navigate to the working directory and start working with the notebooks.
 
